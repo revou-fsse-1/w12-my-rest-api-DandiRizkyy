@@ -102,9 +102,12 @@ Nest is [MIT licensed](LICENSE).
 
 - Postman
 - Insomnia
+- Render.com (I'm using Render.com to deploy my apps to internet because i can't use RailwayApp. They reject my github verification everytime, they mark my github account as spam. I do try to contact their customer service still no respond.)
 
 ## Links 🔗
 
 ---
 
 Week 12 Assignment Links : [Click Me 🙀](https://e-commerce-dandi-restapi.onrender.com)
+
+Note: for deployment links if you encounter bad request error, try to refresh the page periodically. It happen sometimes because i choose free plan.
