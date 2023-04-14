@@ -6,13 +6,28 @@
 
 ---
 
-On this week assignment, we are creating/implementing simple CRUD RESTAPI on Backend Server.
+On this week assignment, i'm creating/implementing simple CRUD RESTAPI on Backend Server.
 
 ## Documentation 📋
 
 ---
 
+### Postman Documentation
+
 Postman Documentation Links : [Click Here 🐱](https://documenter.getpostman.com/view/24409630/2s93XvX5iY)
+
+### API Endpoints
+
+```
+GET    /products
+GET    /products/{id}
+POST   /products
+DELETE /products/{id}
+PUT    /products/{id}
+PATCH  /products/{id}
+```
+
+### NestJS Official Documentation
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
@@ -95,6 +110,7 @@ Nest is [MIT licensed](LICENSE).
 - Javascript
 - Typescript
 - REST API
+- NestJS
 
 ## Toolings 🔨
 
