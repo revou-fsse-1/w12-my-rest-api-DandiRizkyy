@@ -124,6 +124,6 @@ Nest is [MIT licensed](LICENSE).
 
 ---
 
-Week 12 Assignment Links : [Click Me 🙀](https://e-commerce-dandi-restapi.onrender.com)
+Week 12 Assignment Links : [Click Me 🙀](https://e-commerce-dandi-restapi.onrender.com/products)
 
 Note: for deployment links if you encounter bad request error, try to refresh the page periodically. It happen sometimes because i choose free plan. Free plan on Render.com said the service will periodically shutting down and started again only if there are user accessing the link. It will takes around 2-5 minutes to start the deployment services. So if you encounter long time loading or bad request error, wait for minutes or refresh the page.
